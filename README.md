@@ -2,7 +2,7 @@
 
 This project is a simple web application that allows users to create their own cryptocurrency wallets. The app is built using Vite, React, and TypeScript.
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/43d62f5d-dd9f-4c97-9c79-547e5393cfe3)
 
 ### Features
 
